@@ -1,4 +1,4 @@
-# satellite-deeplearning-examples-# Tree Counting in Jahrom Orchards (Dummy Example)
+# satellite-deeplearning-jahrom-# Tree Counting in Jahrom Orchards (Dummy Example)
 
 This example demonstrates a minimal deep-learning pipeline for **tree counting**
 in orchards around Jahrom using *dummy* satellite-like image patches.
